@@ -7,7 +7,7 @@ I am xyz..................
 <img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue"
 alt=""/>
 ## About Me
-- student at AIMS;
+I have a Bachelor's degree in Physics and I have completed a Master's degree in Mathematical Sciences with a major in Data Science. I wish to continue further studies in one of these fields, data science, artificial intelligence, material science, and machine learning. I aim to work in tech-industry, education, and financial institution where my analytical and technical skills can be utilized to make data-driven decisions that will contribute to the success of the company.
 - &nbsp;
 - &nbsp; Exploring new technologies.
 <!--
